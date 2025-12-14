@@ -1,14 +1,3 @@
-Here is the complete, updated README.md file. It includes the project structure (reflecting both the infrastructure in master and the EDA files in task-2), the Business Understanding section, and the new Task 2 EDA section.
-
-1. The Updated README.md Content
-
-Copy the code block below and overwrite your existing README.md.
-
-code
-Markdown
-download
-content_copy
-expand_less
 # Credit Risk Scoring Model
 
 A comprehensive credit scoring model built to meet Basel II regulatory standards, incorporating rigorous data analysis, feature engineering, and model interpretability.
